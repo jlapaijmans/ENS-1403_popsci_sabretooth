@@ -186,6 +186,12 @@ include_graphics("./img/sina_lab.jpg")
 ```
 
 
+## And we can do this stuff here in Bangor!
+
+```{r, out.height = 500, fig.align='center'}
+include_graphics("./img/cleanlab_collage.svg")
+```
+
 ## But the samples are already contaminated {.white-slide}
 
 ```{r, out.width = "60%", fig.width = 6, fig.height = 5, dpi = 600, fig.align = "center", fig.cap="*Data from Noonan et al. 2005. Science*"}
