@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.7483165"
-     inkscape:cx="110.24747"
+     inkscape:cx="-20.713161"
      inkscape:cy="118.93363"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="1920"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g368" />
   <defs
      id="defs734" />
   <g
@@ -182,29 +182,16 @@
     </g>
     <g
        id="g338"
-       transform="matrix(0.35277777,0,0,-0.35277777,58.861517,389.27367)">
+       transform="matrix(0.35277777,0,0,-0.35277777,58.861517,386.09865)">
       <path
          d="m 85.039,388.346 57.09,76.138"
          style="fill:none;stroke:#000000;stroke-width:2.29602;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path340" />
     </g>
     <path
-       d="m 107.1515,224.37405 4.21005,-2.10008 -0.83996,4.62985 z"
+       d="m 107.1515,221.19903 4.21005,-2.10008 -0.83996,4.62985 z"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
        id="path342" />
-    <g
-       id="g344"
-       transform="matrix(0.55203501,0,0,-0.55203501,40.216037,465.29389)">
-      <text
-         xml:space="preserve"
-         transform="matrix(1,0,0,-1,63.78,368.475)"
-         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text348"><tspan
-           x="0 12.96 22.931999 27"
-           y="0"
-           sodipodi:role="line"
-           id="tspan346">Cell</tspan></text>
-    </g>
     <g
        id="g350"
        transform="matrix(0.35277777,0,0,-0.35277777,58.861517,389.27367)">
@@ -219,16 +206,19 @@
        id="path354" />
     <g
        id="g356"
-       transform="matrix(0.49880618,0,0,-0.49880618,0.69452337,447.61041)">
+       transform="matrix(0.49880618,0,0,-0.49880618,9.1786266,437.50209)">
       <text
          xml:space="preserve"
-         transform="matrix(1,0,0,-1,396.85,386.446)"
-         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text360"><tspan
-           x="0 14.886 18.954 23.85 33.93 42.93 52.883999 62.964001 72.917999 82.961998 88.956001 92.916"
-           y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.905882;stroke-width:0.530433"
+         x="418.42609"
+         y="-364.22458"
+         id="text450"
+         transform="scale(1,-1)"><tspan
            sodipodi:role="line"
-           id="tspan358">Mitochondria</tspan></text>
+           id="tspan448"
+           style="stroke-width:0.530433"
+           x="418.42609"
+           y="-364.22458">Mitochondria</tspan></text>
     </g>
     <g
        id="g362"
@@ -244,16 +234,19 @@
        id="path366" />
     <g
        id="g368"
-       transform="matrix(0.53991472,0,0,-0.53991472,-23.637164,529.80907)">
+       transform="matrix(0.53991472,0,0,-0.53991472,-28.000612,552.54553)">
       <text
          xml:space="preserve"
-         transform="matrix(1,0,0,-1,439.37,751.152)"
-         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text372"><tspan
-           x="0 12.96 22.931999 31.914 35.981998 45.936001 55.908001"
-           y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6295px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.905882;stroke-width:0.490047"
+         x="477.27191"
+         y="-786.58783"
+         id="text454"
+         transform="scale(1,-1)"><tspan
            sodipodi:role="line"
-           id="tspan370">Nucleus</tspan></text>
+           id="tspan452"
+           style="stroke-width:0.490047"
+           x="477.27191"
+           y="-786.58783">Nucleus</tspan></text>
     </g>
     <g
        id="g374"
@@ -279,5 +272,16 @@
        d="m 199.99168,204.27383 1.36983,-4.50003 2.77989,3.80012 z"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
        id="path384" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.9785px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.905882;stroke-width:0.264583"
+       x="85.849968"
+       y="260.05725"
+       id="text458"><tspan
+         sodipodi:role="line"
+         id="tspan456"
+         style="stroke-width:0.264583"
+         x="85.849968"
+         y="260.05725">Cell</tspan></text>
   </g>
 </svg>
