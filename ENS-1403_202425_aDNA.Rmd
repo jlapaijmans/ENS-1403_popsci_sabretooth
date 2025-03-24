@@ -97,7 +97,6 @@ include_graphics("./img/mitochondria.svg")
 - High mutation rate
 - Many copies per cell
 - Maternally inherited
-- No recombination
 
 # Ancient DNA
 
@@ -115,14 +114,65 @@ include_graphics("./img/big_bone.jpg")
 ```
 
 
-## Allows study of extinct species!
+## Allows study of extinct species / populations
 
 ```{r, out.height = 500, fig.align='center', fig.cap="*Glyptodont, WolfmanSF, CC BY_SA 3.0*"}
 include_graphics("./img/extinct.png")
 ```
 
+## Ancient DNA can tell us about... <br> <span style="font-size: 40px; font-weight: normal;"> *Extinction dynamics* </span>
 
-## After thousands of years, most DNA is lost
+```{r, out.height = 450, fig.align='center'}
+include_graphics("./img/great_auk3.jpg")
+```
+
+
+
+## Ancient DNA can tell us about... <br> <span style="font-size: 40px; font-weight: normal;"> *Interbreeding* </span> {.columns-2}
+
+
+```{r, out.height = 450, fig.align='center'}
+include_graphics("./img/neanderthal.jpg")
+```
+
+```{r, out.height = 450, fig.align='center'}
+include_graphics("./img/brown_bear.jpg")
+```
+
+## Ancient DNA can tell us about...<br> <span style="font-size: 40px; font-weight: normal;"> *Conservation practices* </span> {.columns-2}
+
+
+```{r, out.height = 450, fig.align='center'}
+include_graphics("./img/Iberian_Lynx_front.jpg")
+```
+
+```{r, out.height = 450, fig.align='center'}
+include_graphics("./img/european-lynx.jpg")
+```
+
+## Ancient DNA can tell us about... <br>  <span style="font-size: 40px; font-weight: normal;"> *Dwarfing speed* </span>
+
+
+```{r, out.height = 450, fig.align='center', fig.cap="*Sicilian dwarf elephant, Zde, CC BY_SA 4.0*"}
+include_graphics("./img/Elephas_Falconeri.jpg")
+```
+
+## Ancient DNA can tell us about... <br>  <span style="font-size: 40px; font-weight: normal;"> *Just really weird things* </span>
+
+
+```{r, out.height = 450, fig.align='center', fig.cap="*Macrauchenia, Olliga, CC BY_SA 3.0*"}
+include_graphics("./img/Macrauchenia.jpg")
+```
+
+
+
+## Ancient DNA is important!
+
+```{r, out.height = 500, fig.align='center'}
+include_graphics("./img/1-onespeciesma_edit1.png")
+```
+
+## But over time, most DNA gets lost
 
 ```{r, out.height = 480, fig.align='center', fig.cap="*Zátonyi Sándor, CC BY-SA 3.0*"}
 include_graphics("./img/Medvebarlang04.jpg")
@@ -210,6 +260,14 @@ include_graphics("./img/smilo-homo_edit.svg")
 ## Fishing for fossils
 
 
+```{r, out.height = 500, fig.align='center'}
+include_graphics("./img/bones.png")
+```
+
+
+## Fishing for fossils
+
+
 - Britain connected to mainland Europe by an area called **Doggerland**
 - Rising sea levels 6-7 ka flooded the area, making Britain an island
 
@@ -293,7 +351,7 @@ include_graphics("./img/hybr.svg")
 
 ## Mistaken identity {.columns-2}
 
-*Meanwhile a Danish group were sequencing North American cave lion DNA*
+*Meanwhile a Danish group were investigating North American cave lion DNA*
 
 <div style="height: 50px;"></div>
 
