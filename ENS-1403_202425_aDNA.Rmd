@@ -226,7 +226,7 @@ include_graphics("./img/Smilodon_fatalis_Sergiodlarosa.jpg")
 - Also known as scimitar-toothed cats
 - Flat, serrated canines
 - ~ 200 kg and 110 cm shoulder height
-- Europe, Africa, N and S America
+- Europe, Asia, Africa, N and S America
 - Pleistocene Europe: *H. latidens*, extinction 300 Ka
 - Pleistocene N. America: *H. serum*, extinction 12 Ka
 
@@ -404,7 +404,7 @@ include_graphics("./img/sabre_tree.svg")
 
 
 
-## Molecular dating of sabretooth cats
+## Ancient DNA analysis of sabretooth cats
 
 - Sabretooths divergence from living cats 20 Ma
 - *Homotherium* and *Smilodon* were more diverged from one another than any living cats
