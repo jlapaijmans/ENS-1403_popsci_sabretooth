@@ -110,8 +110,8 @@ include_graphics("./img/big_bone.jpg")
 
 ## Allows study of extinct species / populations
 
-```{r, out.height = 500, fig.align='center', fig.cap="*Glyptodont, WolfmanSF, CC BY_SA 3.0*"}
-include_graphics("./img/extinct.png")
+```{r, out.height = 550, fig.align='center'}
+include_graphics("./img/studyspecies.svg")
 ```
 
 ## Ancient DNA can tell us about... <br> <span style="font-size: 40px; font-weight: normal;"> *Extinction dynamics* </span>
@@ -121,30 +121,18 @@ include_graphics("./img/great_auk3.jpg")
 ```
 
 
+## Ancient DNA can tell us about...<br> <span style="font-size: 40px; font-weight: normal;"> *Interbreeding & conservation practices* </span> {.flex-cols}
 
-## Ancient DNA can tell us about... <br> <span style="font-size: 40px; font-weight: normal;"> *Interbreeding* </span> {.columns-2}
 
-
-```{r, out.height = 450, fig.align='center'}
-include_graphics("./img/neanderthal.jpg")
+```{r, out.height = 400, fig.align='center', fig.cap="*www.lynxexsitu.es, CC BY-SA 3.0*"}
+include_graphics("./img/Iberian_Lynx_full_body.JPG")
 ```
 
-```{r, out.height = 450, fig.align='center'}
-include_graphics("./img/brown_bear.jpg")
-```
-
-## Ancient DNA can tell us about...<br> <span style="font-size: 40px; font-weight: normal;"> *Conservation practices* </span> {.columns-2}
-
-
-```{r, out.height = 450, fig.align='center'}
-include_graphics("./img/Iberian_Lynx_front.jpg")
-```
-
-```{r, out.height = 450, fig.align='center'}
+```{r, out.height = 400, fig.align='center'}
 include_graphics("./img/european-lynx.jpg")
 ```
 
-## Ancient DNA can tell us about... <br>  <span style="font-size: 40px; font-weight: normal;"> *Dwarfing speed* </span>
+## Ancient DNA can tell us about... <br>  <span style="font-size: 40px; font-weight: normal;"> *Dwarfing on islands* </span>
 
 
 ```{r, out.height = 450, fig.align='center', fig.cap="*Sicilian dwarf elephant, Zde, CC BY_SA 4.0*"}
