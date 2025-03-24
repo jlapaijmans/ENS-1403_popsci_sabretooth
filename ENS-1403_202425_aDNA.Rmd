@@ -359,7 +359,7 @@ include_graphics("./img/hybr.svg")
 
 <div style="height: 50px;"></div>
 
-> - This provided the sequence for the hybridisation cature baits
+> - This provided the sequence for the hybridisation capture baits
 
 <br> 
 
