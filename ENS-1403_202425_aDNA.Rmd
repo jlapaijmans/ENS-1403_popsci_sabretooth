@@ -54,24 +54,18 @@ plot(my.tree)
 
 
 
+## Mutation and inheritance creates the tree {.flex-cols}
 
-## Mutation and inheritance creates the tree {.columns-2}
-
-
-```{r, out.height = 300, fig.align='center'}
-include_graphics("./img/dna-6560897.jpg")
-```
-
+- Each generation has new mutations, which get passed on to the next
 - Human mutation rate ~1.1×10<sup>−8</sup> per site per generation
 - Human: ~40 mutations in your 3.6 Gb genome
-
-
-```{r, out.height = 300, fig.align='center'}
-include_graphics("./img/inheritance_tree.svg")
-```
-
 - DNA divergence and time are (approximately) linearly related
 - Branch lengths show the genetic divergence
+
+
+```{r, out.height = 500, fig.align='center'}
+include_graphics("./img/inheritance_tree.svg")
+```
 
 
 ## DNA sequence alignment
@@ -393,23 +387,19 @@ include_graphics("./img/sabre_tree_NODATE.svg")
 ```
 
 
-## Mutation and inheritance creates the tree {.columns-2}
+## Mutation and inheritance creates the tree {.flex-cols}
 
-
-```{r, out.height = 300, fig.align='center'}
-include_graphics("./img/dna-6560897.jpg")
-```
-
+- Each generation has new mutations, which get passed on to the next
 - Human mutation rate ~1.1×10<sup>−8</sup> per site per generation
 - Human: ~40 mutations in your 3.6 Gb genome
+- DNA divergence and time are (approximately) linearly related
+- Branch lengths show the genetic divergence
 
-
-```{r, out.height = 300, fig.align='center'}
+```{r, out.height = 500, fig.align='center'}
 include_graphics("./img/inheritance_tree.svg")
 ```
 
-- DNA divergence and time are (approximately) linearly related
-- Branch lengths show the genetic divergence
+
 
 ## Molecular dating of sabretooth cats
 
