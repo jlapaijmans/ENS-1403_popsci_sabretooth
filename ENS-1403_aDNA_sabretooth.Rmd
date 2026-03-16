@@ -141,7 +141,7 @@ include_graphics("./img/Macrauchenia.jpg")
 
 ## Ancient DNA is important!
 
-```{r, out.height = 500, fig.align='center'}
+```{r, out.width = 500, fig.align='center'}
 include_graphics("./img/1-onespeciesma_edit1.png")
 ```
 
