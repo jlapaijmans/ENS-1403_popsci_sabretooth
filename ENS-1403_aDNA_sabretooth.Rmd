@@ -227,7 +227,7 @@ include_graphics("./img/Smilodon_fatalis_Sergiodlarosa.jpg")
 - Flat, serrated canines
 - ~ 200 kg and 110 cm shoulder height
 - Europe, Asia, Africa, N and S America
-- Pleistocene Europe: *H. latidens*, extinction 300 Ka
+- Pleistocene Europe & Asia: *H. latidens*, extinction 300 Ka
 - Pleistocene N. America: *H. serum*, extinction 12 Ka
 
 <br>
