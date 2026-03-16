@@ -167,10 +167,15 @@ include_graphics("./img/sina_lab.jpg")
 ```
 
 
-## And we can do this stuff here in Bangor!
+## And we can do this stuff here in Bangor! {.columns-2}
 
-```{r, out.height = 500, fig.align='center'}
-include_graphics("./img/cleanlab_collage.svg")
+
+```{r, out.width = "80%", fig.align='center'}
+include_graphics("./img/cleanlab_axel.jpg")
+```
+
+```{r, out.width = "80%", fig.align='center'}
+include_graphics("./img/cleanlab_johanna2.jpg")
 ```
 
 ## But the samples are already contaminated {.white-slide}
@@ -301,7 +306,7 @@ include_graphics("./img/smilo-homo_edit_withbone.svg")
 ## Sequencing of ancient DNA
 
 ```{r, out.width = "95%", fig.align='center'}
-include_graphics("./img/aDNA_seq.svg")
+include_graphics("./img/aDNA_seq_JP.svg")
 ```
 
 
