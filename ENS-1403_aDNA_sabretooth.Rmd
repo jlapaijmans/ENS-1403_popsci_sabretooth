@@ -1,5 +1,5 @@
 ---
-title: "Ancient DNA of Sabretooth cats"
+title: "Ancient DNA & Sabretooth cats"
 subtitle: "ENS-1403: Pop Science Talks"
 author: "Dr. Johanna Paijmans"
 date: "email: j.paijmans@bangor.ac.uk"
