@@ -100,14 +100,6 @@ include_graphics("./img/mitochondria.svg")
 include_graphics("./img/samples.png")
 ```
 
-
-## Some samples don't fit in the lab!
-
-```{r, out.height = 500, fig.align='center'}
-include_graphics("./img/big_bone.jpg")
-```
-
-
 ## Allows study of extinct species / populations
 
 ```{r, out.height = 550, fig.align='center'}
@@ -147,14 +139,21 @@ include_graphics("./img/Macrauchenia.jpg")
 ```
 
 
-
 ## Ancient DNA is important!
 
 ```{r, out.height = 500, fig.align='center'}
 include_graphics("./img/1-onespeciesma_edit1.png")
 ```
 
-## But over time, most DNA gets lost
+
+## Some "BIG" problems..
+
+```{r, out.height = 500, fig.align='center'}
+include_graphics("./img/big_bone.jpg")
+```
+
+
+## Over time, most DNA gets lost
 
 ```{r, out.height = 480, fig.align='center', fig.cap="*Zátonyi Sándor, CC BY-SA 3.0*"}
 include_graphics("./img/Medvebarlang04.jpg")
